@@ -1,0 +1,13 @@
+org/kurento/room/test/demo/SeqAddRemoveUserDemoTest.class
+org/kurento/room/test/demo/UnsubscribeFromMediaDemoTest.class
+org/kurento/room/test/demo/UnpublishMediaDemoTest.class
+org/kurento/room/test/demo/AddRemoveUsersDemoTest.class
+org/kurento/room/test/demo/NUsersEqualLifetimeDemoTest.class
+org/kurento/room/test/demo/OneUserQuickReentryDemoTest.class
+org/kurento/room/test/demo/fake/ExtraKmsFakeUsersDemoTest.class
+org/kurento/room/test/demo/WebAppAvailabilityDemoTest.class
+org/kurento/room/test/demo/TwoUsersEqualLifetimeDemoTest.class
+org/kurento/room/test/demo/fake/ParallelNFakeUsersDemoTest.class
+org/kurento/room/test/demo/AddRemoveUsersNoSinkVerifyDemoTest.class
+org/kurento/room/test/demo/fake/MixedUsersDemoTest.class
+org/kurento/room/test/demo/SeqNUsersEqualLifetimeDemoTest.class

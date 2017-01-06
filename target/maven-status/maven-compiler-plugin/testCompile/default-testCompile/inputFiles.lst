@@ -1,0 +1,13 @@
+/home/ubuntu/dev/kurento-room/kurento-room-demo/src/test/java/org/kurento/room/test/demo/TwoUsersEqualLifetimeDemoTest.java
+/home/ubuntu/dev/kurento-room/kurento-room-demo/src/test/java/org/kurento/room/test/demo/SeqNUsersEqualLifetimeDemoTest.java
+/home/ubuntu/dev/kurento-room/kurento-room-demo/src/test/java/org/kurento/room/test/demo/fake/ParallelNFakeUsersDemoTest.java
+/home/ubuntu/dev/kurento-room/kurento-room-demo/src/test/java/org/kurento/room/test/demo/fake/MixedUsersDemoTest.java
+/home/ubuntu/dev/kurento-room/kurento-room-demo/src/test/java/org/kurento/room/test/demo/AddRemoveUsersDemoTest.java
+/home/ubuntu/dev/kurento-room/kurento-room-demo/src/test/java/org/kurento/room/test/demo/OneUserQuickReentryDemoTest.java
+/home/ubuntu/dev/kurento-room/kurento-room-demo/src/test/java/org/kurento/room/test/demo/WebAppAvailabilityDemoTest.java
+/home/ubuntu/dev/kurento-room/kurento-room-demo/src/test/java/org/kurento/room/test/demo/fake/ExtraKmsFakeUsersDemoTest.java
+/home/ubuntu/dev/kurento-room/kurento-room-demo/src/test/java/org/kurento/room/test/demo/SeqAddRemoveUserDemoTest.java
+/home/ubuntu/dev/kurento-room/kurento-room-demo/src/test/java/org/kurento/room/test/demo/NUsersEqualLifetimeDemoTest.java
+/home/ubuntu/dev/kurento-room/kurento-room-demo/src/test/java/org/kurento/room/test/demo/UnsubscribeFromMediaDemoTest.java
+/home/ubuntu/dev/kurento-room/kurento-room-demo/src/test/java/org/kurento/room/test/demo/UnpublishMediaDemoTest.java
+/home/ubuntu/dev/kurento-room/kurento-room-demo/src/test/java/org/kurento/room/test/demo/AddRemoveUsersNoSinkVerifyDemoTest.java
